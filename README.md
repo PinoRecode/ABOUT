@@ -23,7 +23,7 @@
 <p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoRecode&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=nizambot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=mek&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=RECODE-TEAM&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
