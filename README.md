@@ -3,7 +3,7 @@
   <img src="https://a.top4top.io/p_2046lkmta0.png" />
 </p>
 
-- 👼 My name is PinoModz 
+- 👼 My name is Pino 
 - 🍼 I am 16 years old 
 - 🔭 I am not programmer
 
